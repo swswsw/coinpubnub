@@ -1,10 +1,12 @@
 setup
-
+----------
+```
   sudo npm install bitcore
   sudo npm install pubnub
+```
 
-
-run 
-
+run
+---------- 
+```
   node main.js
-
+```
